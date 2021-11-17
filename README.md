@@ -7,7 +7,7 @@
 </p>
 
 The installation can be performed on one of the following Jelastic containers as an entry point:
-* Load Balancers - _NGINX__
+* Load Balancers - _NGINX_
 * Ruby application servers - _Enscale NGINX Ruby_
 
 If you require Let’s Encrypt SSL for any other stack, just add a load balancer in front of your application servers and install the add-on. SSL termination at load balancing level is used by default in clustered topologies.
