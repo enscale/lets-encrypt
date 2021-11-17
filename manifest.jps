@@ -10,6 +10,8 @@ categories:
 targetNodes:
   nodeType:
     - enscalenginxruby
+    - nginx
+    - nginx-dockerized
 
 homepage: https://github.com/enscale/lets-encrypt
 baseUrl: https://raw.githubusercontent.com/enscale/lets-encrypt/master
